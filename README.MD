@@ -116,4 +116,6 @@ A-SOUL二创图片原动态出处搜索
 网易云音乐电台：ASOUL歌曲合集：https://music.163.com/#/djradio?id=964463470
 
 
-如有啥错漏，或者有啥自己做的网站没收录进来的，可以私信联系我噢 作者：嘉然小姐的奶粉罐 https://www.bilibili.com/read/cv15628119 联络员：乔治@oldking139 出处：bilibili 
+如有啥错漏，或者有啥自己做的网站没收录进来的，可以私信联系我噢
+
+作者：嘉然小姐的奶粉罐 https://www.bilibili.com/read/cv15628119 联络员：乔治@oldking139 出处：bilibili 
