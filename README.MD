@@ -38,6 +38,11 @@ AU都在溜什么？：https://online.asoulfan.com/
 A-SOUL相关投稿播放排行，展示了B站ASOUL相关视频在线观看人数前百的稿件
 
 <br>
+A-SOUL搜图姬：https://pic.asoulfan.com/
+
+A-SOUL二创图片原动态出处搜索
+
+<br>
 ASOUL图片检索：https://livedb.asoulfan.com/PhotoSearch/index.html
 
 能在线根据一张图片，搜索到这张图片是出自于哪场录播的几分几秒
@@ -101,11 +106,6 @@ ASOUL论坛管理群聊天记录公式：https://asoul.asia/
 A-SOUL Video：https://asoul.video
 
 A-SOUL 抖音视频 All in one ！展示了ASOUL所有抖音视频投稿
-
-<br>
-A-SOUL搜图姬：https://pic.asoulfan.com/
-
-A-SOUL二创图片原动态出处搜索
 
 <br>
 网易云音乐电台：
