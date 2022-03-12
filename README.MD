@@ -28,7 +28,7 @@ A手：https://asoul.life/
 A-SOUL数据及二创收集综合网站，以图表形式展示了ASOUL的粉丝量和舰长数，同时兼有二创图片收集并展示功能，展示密度高，浏览体验比刷B站的TAG要好
 
 
-ASOUL FAN：https://asoulfan.com/
+ASOULFAN：https://asoulfan.com/
 
 ASOUL非粉丝站！给所有的AU提供便利，引导新人快速了解A-SOUL，属于一个魂的小城堡捏！有随机溜二创，快速查成分等功能；收录了ASOUL相关表情包
 
@@ -91,4 +91,4 @@ This is A-Soul Fans Global,you can get some information about A-Soul here.
 网易云音乐电台：ASOUL歌曲合集：https://music.163.com/#/djradio?id=964463470
 
 
-如有啥错漏，或者有啥自己做的网站没收录进来的，可以私信联系我噢 作者：嘉然小姐的奶粉罐 https://www.bilibili.com/read/cv15628119#reply105236231648 出处：bilibili
+如有啥错漏，或者有啥自己做的网站没收录进来的，可以私信联系我噢 作者：嘉然小姐的奶粉罐 https://www.bilibili.com/read/cv15628119#reply105236231648 联络员；乔治@oldking139 出处：bilibili 
