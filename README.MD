@@ -112,7 +112,9 @@ A-SOUL搜图姬：https://pic.asoulfan.com/
 A-SOUL二创图片原动态出处搜索
 
 <br>
-网易云音乐电台：ASOUL歌曲合集：https://music.163.com/#/djradio?id=964463470
+网易云音乐电台：
+
+ASOUL歌曲合集：https://music.163.com/#/djradio?id=964463470
 
 <br>
 嘉然声音按钮：https://vtbkeyboard.moe/672328094
