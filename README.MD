@@ -2,7 +2,6 @@ Asoul Database：http://asdb.live
 
 ASDB，能在线查看ASOUL所有录播的时间轴，人物的服饰，出场的场景；有字幕库，能在线搜索AS成员说过的每一句话，是出自于哪场录播的几分几秒的；内置切片工具，能精准的只下载一整场录播需要的那一小部分
 
----
 
 A-SOUL 导航站：https://www.asoulworld.com/
 
