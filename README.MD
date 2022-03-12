@@ -20,12 +20,12 @@ A-SOUL 录音棚：国内：https://studio.asf.ink   海外：https://studio.a-s
 <br>
 一个魂的二创：https://asoul.cloud/
 
-二创集合网站，主要用于收集A-SOUL相关的视频和图片的二创并集中展示，展示的图片和视频密度高，浏览体验远高于使用B站TAG浏览
+二创集合网站，主要用于收集A-SOUL相关的视频和图片的二创并以瀑布流展示，显示的图片和视频密度高，浏览体验远高于使用B站TAG浏览
 
 <br>
 Asoul 二创爬虫收集：https://landing.asoulwiki.com/AsoulArt
 
-A-SOUL数据及二创收集综合网站，以图表形式展示了ASOUL的粉丝量和舰长数，同时兼有二创图片收集并展示功能，展示密度高，浏览体验远高于使用B站TAG浏览
+A-SOUL二创收集综合网站，聚合了各类二创图片并以瀑布流展示，显示的图片密度高，浏览体验远高于使用B站TAG浏览
 
 <br>
 ASOULFAN：https://asoulfan.com/
@@ -45,7 +45,7 @@ A-SOUL二创图片原动态出处搜索
 <br>
 ASOUL图片检索：https://livedb.asoulfan.com/PhotoSearch/index.html
 
-能在线根据一张图片，搜索到这张图片是出自于哪场录播的几分几秒
+能根据一张图片，在线搜索到这张图片是出自于哪场录播的几分几秒
 
 <br>
 枝网查重：https://asoulcnki.asia/
