@@ -114,7 +114,18 @@ A-SOUL二创图片原动态出处搜索
 <br>
 网易云音乐电台：ASOUL歌曲合集：https://music.163.com/#/djradio?id=964463470
 
+<br>
+嘉然声音按钮：https://vtbkeyboard.moe/672328094
 
+收录了嘉然的各种各样的萌萌的声音的按钮站，点击按钮就能发出声音
+
+<br>
+小作文生成器：http://asoul.infedg.xyz/
+
+使用GPT-2模型训练的小作文生成器，可以根据你的输入自动补(feng)写(he)出生草的小作文。（提示：输入越长越有意义补全效果越好）
+
+
+<br>
 如有啥错漏，或者有啥自己做的网站没收录进来的，可以私信联系我噢
 
-作者：嘉然小姐的奶粉罐 https://www.bilibili.com/read/cv15628119 联络员：乔治@oldking139
+作者：嘉然小姐的奶粉罐 https://www.bilibili.com/read/cv15628119 联络员：乔治@oldking139 出处：bilibili 
