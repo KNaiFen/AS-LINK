@@ -1,6 +1,6 @@
 Asoul Database：http://asdb.live
 
-ASDB，能在线查看ASOUL所有录播的时间轴，人物的服饰，出场的场景；有字幕库，能在线搜索AS成员说过的每一句话，是出自于哪场录播的几分几秒的；内置切片工具，能精准的只下载一整场录播需要的那一小部分
+ASDB，能在线查看ASOUL所有录播的时间轴，人物的服饰，出场的场景；有字幕库，能在线搜索AS成员在直播中说过的每一句话，以及出自于哪场录播的几分几秒；内置切片工具，能精准的只下载一整场录播需要的那一小部分
 
 
 A-SOUL 导航站：https://www.asoulworld.com/
@@ -10,22 +10,22 @@ A-SOUL 导航站：https://www.asoulworld.com/
 
 📂 A-SOUL原画录播站：https://nf.asoul-rec.com
 
-在OneDrive，GoogleDrive，百度云盘，阿里云盘，夸克云盘内存放了：ASOUL出道到现在所有的原画录播和配套弹幕及字幕库；录播的音频流文件；4K超分辨率的直播切片；出道到现在唱过的所有歌的MP3歌曲切片；能带弹幕在线观看ASOUL录播，媲美旧版直播回放的观看体验，能配合ASDB的切片工具只下载需要的一小段原画录播
+在OneDrive，GoogleDrive，百度云盘，阿里云盘，夸克云盘内存放了：ASOUL出道到现在所有的原画录播和配套弹幕及字幕库；录播的音频流文件；4K超分辨率的直播切片；出道到现在唱过的所有歌的MP3歌曲切片；能带弹幕在线观看高码率ASOUL录播，媲美旧版直播回放的观看体验，能配合ASDB的切片工具按需下载一小段原画录播
 
 
 A-SOUL 录音棚：国内：https://studio.asf.ink   海外   https://studio.a-soul.fans
 
-收录A-SOUL几乎全部Solo以及合唱歌曲，并可在线播放并缓存，有标签筛选功能，搜索功能，手机端电脑端皆可使用
+收录A-SOUL几乎全部Solo以及合唱歌曲，并可在线播放并缓存，有搜索及标签筛选功能，手机端电脑端皆可使用
 
 
 一个魂的二创：https://asoul.cloud/
 
-二创集合网站，主要用于收集A-SOUL相关的视频和图片的二创并集中展示，展示的图片和视频密度高，浏览体验比刷B站的TAG要好
+二创集合网站，主要用于收集A-SOUL相关的视频和图片的二创并集中展示，展示的图片和视频密度高，浏览体验远高于使用B站TAG浏览
 
 
 A手：https://asoul.life/
 
-A-SOUL数据及二创收集综合网站，以图表形式展示了ASOUL的粉丝量和舰长数，同时兼有二创图片收集并展示功能，展示密度高，浏览体验比刷B站的TAG要好
+A-SOUL数据及二创收集综合网站，以图表形式展示了ASOUL的粉丝量和舰长数，同时兼有二创图片收集并展示功能，展示密度高，浏览体验远高于使用B站TAG浏览
 
 
 ASOULFAN：https://asoulfan.com/
@@ -65,12 +65,12 @@ A-SOUL 非官方粉丝专页，为有兴趣了解A-SOUL的日语使用者提供�
 
 A-SOUL PT站：https://p2p.bbs.asf.ink/
 
-ASOUL原画录播种子发布处，同样欢迎PT新人，想参与原画录播做种或者想用BT下载录播的可以去看看
+ASOUL原画录播种子发布处，同样欢迎PT新人，想参与原画录播做种或者想用BT下载录播的可以来这看看
 
 
 A-SOUL BBS：https://asbbs.vtb.link/ 或 https://bbs.a-soul.fans/
 
-A-SOUL PT原附属论坛，现以面向所有AU的完全公开的讨论社区重新开放。
+A-SOUL PT原附属论坛，现以面向所有AU的完全公开的讨论社区重新开放
 
 
 嘉晚饭：https://jiawanfan.cn/
