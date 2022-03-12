@@ -70,7 +70,7 @@ ASOUL原画录播种子发布处，同样欢迎PT新人，想参与原画录播�
 
 A-SOUL BBS：https://asbbs.vtb.link/ 或 https://bbs.a-soul.fans/
 
-A-SOUL PT原附属论坛，现以面向所有AU的讨论社区重新开放。
+A-SOUL PT原附属论坛，现以面向所有AU的完全公开的讨论社区重新开放。
 
 
 嘉晚饭：https://jiawanfan.cn/
