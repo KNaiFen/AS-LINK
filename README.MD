@@ -48,11 +48,6 @@ ASOUL图片检索：https://livedb.asoulfan.com/PhotoSearch/index.html
 提供评论区小作文查重功能的网站，还收集了评论区优秀小作文，支持条件筛选和一键复制
 
 <br>
-ASOUL直播数据统计：https://asoulmonitor.xyz/
-
-统计了每场直播的弹幕数量、入场人次、送礼人次、舰长数、新增粉丝数，并以曲线图的形式展示出来！数据民，赢！
-
-<br>
 一个魂维基 A-SOUL WIKI：https://asoulwiki.com/
 
 这里记录了最详细的关于虚拟偶像团体A-SOUL及其相关的内容！
