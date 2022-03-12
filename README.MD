@@ -23,7 +23,7 @@ A-SOUL 录音棚：国内：https://studio.asf.ink   海外：https://studio.a-s
 二创集合网站，主要用于收集A-SOUL相关的视频和图片的二创并集中展示，展示的图片和视频密度高，浏览体验远高于使用B站TAG浏览
 
 <br>
-A手：https://asoul.life/
+A手：https://landing.asoulwiki.com/AsoulArt
 
 A-SOUL数据及二创收集综合网站，以图表形式展示了ASOUL的粉丝量和舰长数，同时兼有二创图片收集并展示功能，展示密度高，浏览体验远高于使用B站TAG浏览
 
