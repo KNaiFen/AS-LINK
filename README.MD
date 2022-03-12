@@ -103,7 +103,7 @@ AU都在溜什么？：https://online.asoulfan.com/
 A-SOUL相关投稿播放排行，展示了B站ASOUL相关视频在线观看人数前百的稿件
 
 
-A-SOUL Video：asoul.video
+A-SOUL Video：https://asoul.video
 
 A-SOUL 抖音视频 All in one ！展示了ASOUL所有抖音视频投稿
 
